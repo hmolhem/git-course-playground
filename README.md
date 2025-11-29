@@ -2,10 +2,6 @@
 This repository created for 'Introduction to Git and GitHub' course on coursera.
 
 This course includes 4 modules:
-Module 1: Introduction to version control
-Module 2: Using Git Locally
-Module 3: Working with Remotes
-Module 4: Collaboration
 
 ## Module 1: Introduction to version control
 
