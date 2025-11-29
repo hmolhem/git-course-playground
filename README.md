@@ -1,7 +1,5 @@
 # git-course-playground
-This repository created for 'Introduction to Git and GitHub' course on coursera.
-
-This course includes 4 modules:
+This repository was created for the "Introduction to Git and GitHub" course. The course consists of four modules:
 
 ## Module 1: Introduction to version control
 
